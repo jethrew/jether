@@ -1,0 +1,59 @@
+[
+  {
+    "id": 145,
+    "name": "Pentecostal Missionary Church of Christ - San Juan, La Union",
+    "imageUrl": "https://raw.githubusercontent.com/jethrew/jeth/master/asd/v1.jpg",
+    "lat": 16.663653,
+    "lng": 120.331475
+    
+  },
+  {
+    "id": 148,
+    "name": "Nuestra Senora De Salvacion Church",
+    "imageUrl": "https://raw.githubusercontent.com/jethrew/jether/master/asd/v2.jpg",
+    "lat": 16.642782,
+    "lng": 120.310310
+     
+  },
+  {
+    "id": 201,
+    "name": "Church of the Nazarene",
+    "imageUrl": "https://raw.githubusercontent.com/jethrew/jether/master/asd/v3.jpg",
+    "lat": 16.616188,
+    "lng": 120.330066
+     
+  },
+  {
+    "id": 205,
+    "name": "Lighthouse Baptist Church",
+    "imageUrl": "https://raw.githubusercontent.com/jethrew/jether/master/asd/v4.jpg",
+    "lat": 16.606104,
+    "lng": 120.309507
+     
+  },
+  {
+    "id": 211,
+    "name": "Victory La Union - San Fernando",
+    "imageUrl": "https://raw.githubusercontent.com/jethrew/jether/master/asd/v5.jpg",
+    "lat": 16.615394,
+    "lng": 120.315640
+     
+  },
+    {
+    "id": 212,
+    "name": "MCGI - Church of God International ( Ang Dating Daan )",
+    "imageUrl": "https://raw.githubusercontent.com/jethrew/jether/master/asd/v6.jpg",
+
+    "lat": 16.621112,
+    "lng": 120.317487
+  },
+   {
+    "id": 213,
+    "name": "MY HOUSE",
+    "imageUrl": "https://raw.githubusercontent.com/jethrew/jether/master/asd/v7.png",
+
+    "lat": 16.669820,
+    "lng": 120.371191
+     
+  }
+]
